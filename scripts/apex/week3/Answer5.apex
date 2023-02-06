@@ -1,0 +1,1 @@
+System.debug(Answer5.addPlanet('', '', ''));
